@@ -19,3 +19,6 @@
 - **2D Graphics:** Utilizes SFML for rendering 2D graphics.
 - **Maze Generation:** Creates and displays a maze for the player to navigate.
 - **Player Interaction:** Allows player movement and interaction within the maze.
+![image](https://github.com/khaled71612000/SFML-Maze/assets/59780800/7ffd3262-4590-41b8-aab1-0fbe2716134f)
+![image](https://github.com/khaled71612000/SFML-Maze/assets/59780800/9f7660df-05de-43c8-bd8e-e1784569150c)
+![image](https://github.com/khaled71612000/SFML-Maze/assets/59780800/1be1494a-53ed-4078-a024-d685356e5276)
