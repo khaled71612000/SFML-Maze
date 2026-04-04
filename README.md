@@ -27,6 +27,16 @@
 ![image](https://github.com/khaled71612000/SFML-Maze/assets/59780800/9f7660df-05de-43c8-bd8e-e1784569150c)
 ![image](https://github.com/khaled71612000/SFML-Maze/assets/59780800/1be1494a-53ed-4078-a024-d685356e5276)
 
+
+## Tech Stack
+
+| Technology | Role |
+|---|---|
+| C++ | Simulation logic |
+| SFML / Box2D | Rendering & physics |
+| CMake | Build system |
+
+
 ## Getting Started
 
 ```bash
